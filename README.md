@@ -2,4 +2,4 @@
 
 
 
-Solution of hackerearth problem in C/C++
+Solution of hackerearth problem in C/C++..
