@@ -2,7 +2,7 @@
 int main(){
     int num, rem, reverse_num, temp;
     int test;
-    scanf("%d",&test);
+    scanf("%d",&test);//input
     int arr[test];
     for (int i=0;i<test;i++)
     {
